@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AssetsDB/.vs/AssetsDB/v15
+/AssetsDB/AssetsDB/bin
+/AssetsDB/AssetsDB/obj
